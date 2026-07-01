@@ -1,0 +1,14 @@
+{
+  "name": "keystroke-catalog",
+  "version": "1.0.0",
+  "description": "KEYSTROKE — a modular, routed product catalog capstone project. Zero-build static SPA.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve . -l 5173",
+    "preview": "npx serve . -l 4173"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

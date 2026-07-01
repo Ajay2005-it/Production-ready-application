@@ -1,0 +1,11 @@
+{
+  "name": "KEYSTROKE — Precision keyboard supply",
+  "short_name": "KEYSTROKE",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1b2d",
+  "theme_color": "#0f1b2d",
+  "icons": [
+    { "src": "/assets/icons/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
